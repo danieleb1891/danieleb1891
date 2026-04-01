@@ -65,7 +65,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-*If you want something you never had, you have to do something you never done.*
+*If you want something you never had, you have to do something you've never done.*
 
 </div>
 
