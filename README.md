@@ -14,7 +14,7 @@
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Current Projects
+### 🛠 Relevant Projects
 
 </div>
 
