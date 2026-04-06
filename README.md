@@ -6,6 +6,8 @@
 
 ![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=white)
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-matlab-000000?style=for-the-badge&logo=matlab&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -14,7 +16,7 @@
 
 ---
 
-### 📬 Connect
+### 📬 Connect with me
 
 <div align="center">
 
