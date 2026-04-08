@@ -40,9 +40,9 @@
 
 </div>
 
-- 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1891/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
-- ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1891/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Paper](https://doi.org/10.1016/j.apenergy.2025.126983)**
-- 🔋 **[BESS_sizing_tool](https://github.com/danieleb1891/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
+- 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1861/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
+- ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1861/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Paper](https://doi.org/10.1016/j.apenergy.2025.126983)**
+- 🔋 **[BESS_sizing_tool](https://github.com/danieleb1861/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
 
 </div>
 
@@ -53,9 +53,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieleb1891/danieleb1891/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danieleb1891/danieleb1891/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danieleb1891/danieleb1891/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieleb1861/danieleb1861/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danieleb1861/danieleb1861/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danieleb1861/danieleb1861/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
