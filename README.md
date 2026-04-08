@@ -41,6 +41,7 @@
 </div>
 
 - 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1861/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
+- ⚡️ **[ML_load-profiles](https://github.com/danieleb1861/ML_load-profiles)** - Electric load analysis and forecasting using different Deep Neural Network frameworks for timeseries prediction
 - ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1861/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Paper](https://doi.org/10.1016/j.apenergy.2025.126983)**
 - 🔋 **[BESS_sizing_tool](https://github.com/danieleb1861/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
 
