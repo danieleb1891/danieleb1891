@@ -7,6 +7,7 @@
 [![python](https://img.shields.io/badge/-python-000000?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij4KPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjE4IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSI0NCIgY3k9IjI1IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSI0NCIgY3k9IjM5IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjQ2IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIyMCIgY3k9IjM5IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIyMCIgY3k9IjI1IiByPSIxMiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)](https://gymnasium.farama.org/)
 [![MathWorks](https://img.shields.io/badge/MathWorks-MATLAB-0076A8?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![CLI](https://img.shields.io/badge/-CLI-000000?logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
 [![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
@@ -21,6 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-belvisi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/danieleb1861)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-000000?logo=researchgate&logoColor=00CCBB)](https://www.researchgate.net/profile/Daniele-Belvisi-3?ev=prf_overview)
 
 </div>
 
